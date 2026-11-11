@@ -1,0 +1,14 @@
+{
+  "name": "ムギ物語～文法編～",
+  "short_name": "ムギ文法",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#ff9424",
+  "theme_color": "#ff8a1f",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
